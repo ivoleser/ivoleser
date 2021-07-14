@@ -35,7 +35,7 @@
 </a> 
 
 ### Stats:
-<p><img src="https://github-readme-stats.vercel.app/api?username=ivoleser&show_icons=true&theme=react&count_private=true" alt="ivoleser" height="170" />&nbsp;
+<p><img src="https://github-readme-stats.vercel.app/api?username=ivoleser&show_icons=true&theme=react&count_private=true" alt="ivoleser" height="170" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivoleser&layout=compact&theme=react" alt="ivoleser" height="170" />
 </p> 
 
